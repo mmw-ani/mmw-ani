@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/mmw-ani/mmw-ani/main/assets/Hi.gif" width="29px">, I'm [Animesh Jaiswal!](https://www.linkedin.com/in/animeshjais/) 
+## Hey <img src="https://raw.githubusercontent.com/mmw-ani/mmw-ani/main/assets/Hi.gif" width="29px" height="32px">, I'm [Animesh Jaiswal!](https://www.linkedin.com/in/animeshjais/) 
 
 <a href="https://www.linkedin.com/in/animeshjais/">
   <img align="left" width="32px" src="https://raw.githubusercontent.com/mmw-ani/mmw-ani/main/assets/icons8-linkedin.svg" />
