@@ -20,7 +20,3 @@ Free? Let's build something interesting!🙌
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mmw-ani)</br>
-
-![Animesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mmw-ani&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)&nbsp;&nbsp;
-![Animesh's Language stats](https://github-readme-stats.vercel.app/api?username=mmw-ani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)
-<br />
